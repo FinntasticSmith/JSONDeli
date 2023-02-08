@@ -1,0 +1,72 @@
+{
+    "menu": [
+        {
+            "category": "Appetizers",
+            "item": "Mozzarella Sticks",
+            "price": 5,
+            "inStock": true,
+            "ingredients": ["breadcrumbs", "mozzarella", "egg wash", "oil"]
+            },
+        
+        {
+            "category": "Appetizers",
+            "item": "Potato Skins",
+            "price": 7,
+            "inStock": true,
+            "ingredients": ["potatoes", "cheese", "bacon", "sour cream", "chives"]
+            
+        },
+        {
+            "catergory": "Cold Sandwiches",
+            "item": "BLT",
+            "price": 10,
+            "inStock": true,
+            "ingredients": ["bread", "mayo", "bacon", "lettuce", "tomato"]
+            },
+        {
+            "category": "Cold Sandwiches",
+            "item": "Ham and Cheese",
+            "price": 10,
+            "inStock": true,
+            "ingredients": ["bread", "ham", "cheese", "mayo"]
+            },
+        
+        {
+            "category": "Hot Sandwiches",
+            "item": "Joe's Special",
+            "price": 15,
+            "inStock": true,
+            "ingredients": ["italian bread", "chicken cutlet", "mozzarella", "red onion", "italian dressing"]
+            
+        },
+        {
+            "catergory": "Hot Sandwiches",
+            "item": "Roast Beef Melt",
+            "inStock": true,
+            "ingredients": ["bread", "mayo", "roast beef", "cheddar", "au jus"]
+        },
+        {
+            "category": "Appetizers",
+            "item": "Mozzarella Sticks",
+            "price": 5,
+            "inStock": true,
+            "ingredients": ["breadcrumbs", "mozzarella", "egg wash", "oil"]
+        },
+        
+        {
+            "category": "Desserts",
+            "item": "Ice Cream",
+            "price": 5,
+            "inStock": true,
+            "flavors": ["chocolate", "vanilla", "strawberry", "cookies and cream", "spumoni"]
+            
+        },
+        {
+            "catergory": "Drinks",
+            "item": "Soda",
+            "inStock": true,
+            "ingredients": ["Coke", "Diet Coke", "Sprite", "Dr. Pepper", "Root Beer"]
+            }
+        
+    ]
+}
